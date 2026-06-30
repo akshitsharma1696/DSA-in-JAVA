@@ -145,3 +145,19 @@ Feel free to connect with me and follow my coding journey!
 ---
 
 # Happy Coding! 🚀✨
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
+<!---LeetCode Topics End-->
