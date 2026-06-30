@@ -152,6 +152,7 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,4 +161,8 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
