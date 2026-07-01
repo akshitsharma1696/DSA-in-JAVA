@@ -151,6 +151,7 @@ Feel free to connect with me and follow my coding journey!
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0136-single-number) |
@@ -169,6 +170,7 @@ Feel free to connect with me and follow my coding journey!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
@@ -178,4 +180,8 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
