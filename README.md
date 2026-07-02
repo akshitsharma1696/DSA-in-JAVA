@@ -164,6 +164,7 @@ Feel free to connect with me and follow my coding journey!
 | [0011-container-with-most-water](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -238,5 +239,10 @@ Feel free to connect with me and follow my coding journey!
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
