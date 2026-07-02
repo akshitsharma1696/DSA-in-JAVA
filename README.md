@@ -218,16 +218,20 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
