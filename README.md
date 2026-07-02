@@ -186,6 +186,7 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -234,4 +235,8 @@ Feel free to connect with me and follow my coding journey!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
