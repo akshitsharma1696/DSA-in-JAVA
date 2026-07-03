@@ -186,6 +186,7 @@ Feel free to connect with me and follow my coding journey!
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
@@ -242,6 +243,7 @@ Feel free to connect with me and follow my coding journey!
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0206-reverse-linked-list) |
 ## Hash Table
