@@ -174,6 +174,7 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0222-count-complete-tree-nodes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,6 +202,7 @@ Feel free to connect with me and follow my coding journey!
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -230,6 +232,7 @@ Feel free to connect with me and follow my coding journey!
 | [0094-binary-tree-inorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -241,6 +244,7 @@ Feel free to connect with me and follow my coding journey!
 | [0094-binary-tree-inorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0222-count-complete-tree-nodes) |
 ## Linked List
 |  |
 | ------- |
