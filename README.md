@@ -254,6 +254,7 @@ Feel free to connect with me and follow my coding journey!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0092-reverse-linked-list-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0203-remove-linked-list-elements) |
