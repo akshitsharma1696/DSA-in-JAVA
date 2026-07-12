@@ -152,6 +152,7 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
@@ -280,4 +281,12 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0225-implement-stack-using-queues) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
