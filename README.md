@@ -157,6 +157,7 @@ Feel free to connect with me and follow my coding journey!
 | [0088-merge-sorted-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0136-single-number) |
+| [1331-rank-transform-of-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Two Pointers
 |  |
@@ -172,6 +173,7 @@ Feel free to connect with me and follow my coding journey!
 | ------- |
 | [0075-sort-colors](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -269,6 +271,7 @@ Feel free to connect with me and follow my coding journey!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0142-linked-list-cycle-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
 ## Design
 |  |
 | ------- |
