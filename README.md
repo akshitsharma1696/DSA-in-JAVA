@@ -289,4 +289,8 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
