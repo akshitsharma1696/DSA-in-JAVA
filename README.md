@@ -193,6 +193,7 @@ Feel free to connect with me and follow my coding journey!
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0050-powx-n) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -297,4 +298,8 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
