@@ -287,6 +287,7 @@ Feel free to connect with me and follow my coding journey!
 | [0217-contains-duplicate](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
 ## Design
 |  |
@@ -296,11 +297,13 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -313,4 +316,8 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
