@@ -176,6 +176,7 @@ Feel free to connect with me and follow my coding journey!
 | ------- |
 | [0075-sort-colors](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Bit Manipulation
@@ -277,6 +278,7 @@ Feel free to connect with me and follow my coding journey!
 | [0001-two-sum](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
 ## Design
 |  |
@@ -290,6 +292,7 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
