@@ -160,6 +160,7 @@ Feel free to connect with me and follow my coding journey!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -172,6 +173,7 @@ Feel free to connect with me and follow my coding journey!
 | [0141-linked-list-cycle](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -179,6 +181,7 @@ Feel free to connect with me and follow my coding journey!
 | [0088-merge-sorted-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Bit Manipulation
@@ -218,6 +221,7 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0222-count-complete-tree-nodes) |
+| [0349-intersection-of-two-arrays](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -282,6 +286,7 @@ Feel free to connect with me and follow my coding journey!
 | [0142-linked-list-cycle-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
 ## Design
 |  |
