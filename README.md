@@ -162,6 +162,7 @@ Feel free to connect with me and follow my coding journey!
 | [0217-contains-duplicate](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Two Pointers
@@ -199,6 +200,7 @@ Feel free to connect with me and follow my coding journey!
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0050-powx-n) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -319,6 +321,7 @@ Feel free to connect with me and follow my coding journey!
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting
 |  |
