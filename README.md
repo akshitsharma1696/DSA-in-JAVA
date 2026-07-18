@@ -251,6 +251,7 @@ Feel free to connect with me and follow my coding journey!
 | [0094-binary-tree-inorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
@@ -301,10 +302,12 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
