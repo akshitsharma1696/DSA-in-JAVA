@@ -175,6 +175,7 @@ Feel free to connect with me and follow my coding journey!
 | [0142-linked-list-cycle-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -250,6 +251,7 @@ Feel free to connect with me and follow my coding journey!
 | [0144-binary-tree-preorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
@@ -309,6 +311,7 @@ Feel free to connect with me and follow my coding journey!
 | [0020-valid-parentheses](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0387-first-unique-character-in-a-string) |
+| [0844-backspace-string-compare](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
@@ -327,4 +330,8 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
