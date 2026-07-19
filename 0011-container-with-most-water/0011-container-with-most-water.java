@@ -18,6 +18,12 @@ class Solution {
             int water=width*minh;
             if(water>maxw) maxw= water;
 
+        }
+        return maxw;
+    }
+}
+
+
 
             // for(int j=i+1;j<n;j++){
             //     int width=j-i;
@@ -27,7 +33,3 @@ class Solution {
             //     int water=width*minh;
             //     if(water>maxw) maxw= water;
             // }
-        }
-        return maxw;
-    }
-}
