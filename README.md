@@ -168,6 +168,7 @@ Feel free to connect with me and follow my coding journey!
 | [2149-rearrange-array-elements-by-sign](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3467-transform-array-by-parity](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3467-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -192,6 +193,7 @@ Feel free to connect with me and follow my coding journey!
 | [0905-sort-array-by-parity](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [3467-transform-array-by-parity](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3467-transform-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -344,6 +346,7 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0387-first-unique-character-in-a-string) |
+| [3467-transform-array-by-parity](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
