@@ -338,6 +338,7 @@ Feel free to connect with me and follow my coding journey!
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 ## Trie
 |  |
 | ------- |
