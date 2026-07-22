@@ -214,6 +214,7 @@ Feel free to connect with me and follow my coding journey!
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0050-powx-n) |
+| [0168-excel-sheet-column-title](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -333,6 +334,7 @@ Feel free to connect with me and follow my coding journey!
 | ------- |
 | [0014-longest-common-prefix](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0020-valid-parentheses) |
+| [0168-excel-sheet-column-title](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
