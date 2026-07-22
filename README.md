@@ -335,6 +335,7 @@ Feel free to connect with me and follow my coding journey!
 | [0387-first-unique-character-in-a-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Trie
 |  |
 | ------- |
@@ -352,6 +353,7 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0387-first-unique-character-in-a-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3467-transform-array-by-parity](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
