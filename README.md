@@ -187,6 +187,7 @@ Feel free to connect with me and follow my coding journey!
 | [0160-intersection-of-two-linked-lists](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0905-sort-array-by-parity) |
@@ -342,6 +343,7 @@ Feel free to connect with me and follow my coding journey!
 | [0020-valid-parentheses](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0459-repeated-substring-pattern) |
 | [0844-backspace-string-compare](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
