@@ -187,6 +187,7 @@ Feel free to connect with me and follow my coding journey!
 | [0844-backspace-string-compare](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3884-first-matching-character-from-both-ends](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |
 | ------- |
@@ -343,6 +344,7 @@ Feel free to connect with me and follow my coding journey!
 | [1704-determine-if-string-halves-are-alike](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3884-first-matching-character-from-both-ends](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Trie
 |  |
 | ------- |
