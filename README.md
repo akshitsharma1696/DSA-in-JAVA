@@ -174,6 +174,7 @@ Feel free to connect with me and follow my coding journey!
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2942-find-words-containing-character](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2942-find-words-containing-character) |
 | [3467-transform-array-by-parity](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3467-transform-array-by-parity) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -210,6 +211,7 @@ Feel free to connect with me and follow my coding journey!
 | ------- |
 | [0136-single-number](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0222-count-complete-tree-nodes) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -223,6 +225,7 @@ Feel free to connect with me and follow my coding journey!
 | [0168-excel-sheet-column-title](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -362,6 +365,7 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1291-sequential-digits) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
