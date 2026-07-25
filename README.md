@@ -206,6 +206,7 @@ Feel free to connect with me and follow my coding journey!
 | [1331-rank-transform-of-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3467-transform-array-by-parity](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3467-transform-array-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -226,6 +227,7 @@ Feel free to connect with me and follow my coding journey!
 | [0189-rotate-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
