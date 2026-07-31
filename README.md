@@ -210,6 +210,7 @@ Feel free to connect with me and follow my coding journey!
 | [1331-rank-transform-of-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -256,6 +257,7 @@ Feel free to connect with me and follow my coding journey!
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -343,6 +345,7 @@ Feel free to connect with me and follow my coding journey!
 | [0387-first-unique-character-in-a-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
 |  |
 | ------- |
@@ -373,6 +376,7 @@ Feel free to connect with me and follow my coding journey!
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3884-first-matching-character-from-both-ends](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Trie
 |  |
@@ -393,6 +397,7 @@ Feel free to connect with me and follow my coding journey!
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1704-determine-if-string-halves-are-alike) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
