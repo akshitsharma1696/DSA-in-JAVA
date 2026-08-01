@@ -362,6 +362,7 @@ Feel free to connect with me and follow my coding journey!
 | ------- |
 | [0014-longest-common-prefix](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
