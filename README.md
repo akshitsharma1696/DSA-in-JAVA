@@ -179,6 +179,7 @@ Feel free to connect with me and follow my coding journey!
 | [2942-find-words-containing-character](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2942-find-words-containing-character) |
 | [3467-transform-array-by-parity](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3467-transform-array-by-parity) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3731-find-missing-elements](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -214,6 +215,7 @@ Feel free to connect with me and follow my coding journey!
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -350,6 +352,7 @@ Feel free to connect with me and follow my coding journey!
 | [1331-rank-transform-of-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3731-find-missing-elements) |
 ## Design
 |  |
 | ------- |
