@@ -233,6 +233,7 @@ Feel free to connect with me and follow my coding journey!
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0189-rotate-array) |
