@@ -423,4 +423,8 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0877-stone-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
