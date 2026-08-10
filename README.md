@@ -296,6 +296,7 @@ Feel free to connect with me and follow my coding journey!
 | [0020-valid-parentheses](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0234-palindrome-linked-list) |
@@ -309,6 +310,7 @@ Feel free to connect with me and follow my coding journey!
 | [0100-same-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
@@ -316,6 +318,7 @@ Feel free to connect with me and follow my coding journey!
 | [0094-binary-tree-inorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -323,6 +326,7 @@ Feel free to connect with me and follow my coding journey!
 | [0100-same-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0222-count-complete-tree-nodes) |
 ## Linked List
 |  |
