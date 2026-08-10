@@ -277,6 +277,7 @@ Feel free to connect with me and follow my coding journey!
 | [0100-same-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
@@ -311,6 +312,7 @@ Feel free to connect with me and follow my coding journey!
 | [0100-same-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0222-count-complete-tree-nodes) |
@@ -320,6 +322,7 @@ Feel free to connect with me and follow my coding journey!
 | [0094-binary-tree-inorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
@@ -329,6 +332,7 @@ Feel free to connect with me and follow my coding journey!
 | [0100-same-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0222-count-complete-tree-nodes) |
