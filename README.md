@@ -278,6 +278,7 @@ Feel free to connect with me and follow my coding journey!
 | [0102-binary-tree-level-order-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
@@ -313,6 +314,7 @@ Feel free to connect with me and follow my coding journey!
 | [0102-binary-tree-level-order-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0222-count-complete-tree-nodes) |
@@ -323,6 +325,7 @@ Feel free to connect with me and follow my coding journey!
 | [0100-same-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
@@ -333,6 +336,7 @@ Feel free to connect with me and follow my coding journey!
 | [0102-binary-tree-level-order-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0222-count-complete-tree-nodes) |
@@ -345,6 +349,7 @@ Feel free to connect with me and follow my coding journey!
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0092-reverse-linked-list-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
