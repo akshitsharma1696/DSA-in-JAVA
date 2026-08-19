@@ -279,10 +279,12 @@ Feel free to connect with me and follow my coding journey!
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0547-number-of-provinces](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0547-number-of-provinces) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0547-number-of-provinces) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -328,6 +330,7 @@ Feel free to connect with me and follow my coding journey!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0547-number-of-provinces](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -452,4 +455,8 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0075-sort-colors) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
