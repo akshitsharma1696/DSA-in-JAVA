@@ -163,6 +163,7 @@ Feel free to connect with me and follow my coding journey!
 | [0189-rotate-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0523-continuous-subarray-sum](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0877-stone-game) |
@@ -237,6 +238,7 @@ Feel free to connect with me and follow my coding journey!
 | [0050-powx-n](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0189-rotate-array) |
+| [0523-continuous-subarray-sum](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -377,6 +379,7 @@ Feel free to connect with me and follow my coding journey!
 | [0242-valid-anagram](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0387-first-unique-character-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0523-continuous-subarray-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -466,4 +469,12 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0547-number-of-provinces) |
+## Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0523-continuous-subarray-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
