@@ -1,35 +1,30 @@
 class Solution {
     public int maxArea(int[] height) {
         int n=height.length;
-        int maxw=0;
-        int right=n-1;
         int left=0;
+        int right=n-1;
+        int minh=0;
+        int maxw=0;
         while(left<right){
             int width=right-left;
-            int minh;
-            if(height[right]<height[left]) {
-                minh=height[right];
-                right--;
-                }
-            else {
+           
+            if(height[left]<height[right]){
                 minh=height[left];
                 left++;
-                }
-            int water=width*minh;
-            if(water>maxw) maxw= water;
-
+            }else{
+                minh=height[right];
+                right--;
+            }
+            int max=width*minh;
+            if(max>maxw)maxw=max;
+        
         }
         return maxw;
+
+     
     }
 }
 
 
 
-            // for(int j=i+1;j<n;j++){
-            //     int width=j-i;
-            //     int minh;
-            //     if(height[i]<height[j]) minh=height[i];
-            //     else minh=height[j];
-            //     int water=width*minh;
-            //     if(water>maxw) maxw= water;
-            // }
+         
