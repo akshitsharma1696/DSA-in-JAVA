@@ -162,6 +162,7 @@ Feel free to connect with me and follow my coding journey!
 | [0136-single-number](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0523-continuous-subarray-sum](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -391,6 +392,7 @@ Feel free to connect with me and follow my coding journey!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
@@ -474,6 +476,7 @@ Feel free to connect with me and follow my coding journey!
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0523-continuous-subarray-sum) |
 ## Pigeonhole Principle
 |  |
