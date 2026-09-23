@@ -414,6 +414,7 @@ Feel free to connect with me and follow my coding journey!
 | [0459-repeated-substring-pattern](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0459-repeated-substring-pattern) |
 | [0844-backspace-string-compare](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -482,6 +483,7 @@ Feel free to connect with me and follow my coding journey!
 | [0523-continuous-subarray-sum](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Pigeonhole Principle
 |  |
 | ------- |
