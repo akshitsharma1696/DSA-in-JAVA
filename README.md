@@ -173,6 +173,7 @@ Feel free to connect with me and follow my coding journey!
 | [1331-rank-transform-of-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -484,6 +485,7 @@ Feel free to connect with me and follow my coding journey!
 | [0724-find-pivot-index](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1480-running-sum-of-1d-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1480-running-sum-of-1d-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
