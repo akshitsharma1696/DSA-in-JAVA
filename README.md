@@ -171,6 +171,7 @@ Feel free to connect with me and follow my coding journey!
 | [0877-stone-game](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -480,6 +481,7 @@ Feel free to connect with me and follow my coding journey!
 | [0303-range-sum-query-immutable](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0724-find-pivot-index) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 ## Pigeonhole Principle
 |  |
 | ------- |
