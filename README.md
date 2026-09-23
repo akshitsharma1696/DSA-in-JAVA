@@ -167,6 +167,7 @@ Feel free to connect with me and follow my coding journey!
 | [0523-continuous-subarray-sum](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
@@ -478,6 +479,7 @@ Feel free to connect with me and follow my coding journey!
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0523-continuous-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0724-find-pivot-index) |
 ## Pigeonhole Principle
 |  |
 | ------- |
