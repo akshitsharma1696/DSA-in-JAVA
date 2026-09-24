@@ -415,6 +415,7 @@ Feel free to connect with me and follow my coding journey!
 | [0459-repeated-substring-pattern](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0459-repeated-substring-pattern) |
 | [0844-backspace-string-compare](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1392-longest-happy-prefix](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1392-longest-happy-prefix) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -457,6 +458,7 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0459-repeated-substring-pattern) |
+| [1392-longest-happy-prefix](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1392-longest-happy-prefix) |
 ## Game Theory
 |  |
 | ------- |
@@ -490,4 +492,20 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0523-continuous-subarray-sum) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
