@@ -171,6 +171,7 @@ Feel free to connect with me and follow my coding journey!
 | [0628-maximum-product-of-three-numbers](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
@@ -285,6 +286,7 @@ Feel free to connect with me and follow my coding journey!
 | [0435-non-overlapping-intervals](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0860-lemonade-change) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
