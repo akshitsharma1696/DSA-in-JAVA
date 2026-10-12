@@ -166,6 +166,7 @@ Feel free to connect with me and follow my coding journey!
 | [0349-intersection-of-two-arrays](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0455-assign-cookies](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0682-baseball-game) |
@@ -204,6 +205,7 @@ Feel free to connect with me and follow my coding journey!
 | [0234-palindrome-linked-list](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -218,6 +220,7 @@ Feel free to connect with me and follow my coding journey!
 | [0349-intersection-of-two-arrays](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0455-assign-cookies](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
@@ -281,6 +284,7 @@ Feel free to connect with me and follow my coding journey!
 | [0011-container-with-most-water](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0455-assign-cookies](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
@@ -484,6 +488,7 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
