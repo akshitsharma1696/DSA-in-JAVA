@@ -179,6 +179,7 @@ Feel free to connect with me and follow my coding journey!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1710-maximum-units-on-a-truck](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -226,6 +227,7 @@ Feel free to connect with me and follow my coding journey!
 | [0905-sort-array-by-parity](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1710-maximum-units-on-a-truck) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3467-transform-array-by-parity) |
@@ -287,6 +289,7 @@ Feel free to connect with me and follow my coding journey!
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0860-lemonade-change) |
+| [1710-maximum-units-on-a-truck](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/1710-maximum-units-on-a-truck) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
