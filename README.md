@@ -243,6 +243,7 @@ Feel free to connect with me and follow my coding journey!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
@@ -254,6 +255,7 @@ Feel free to connect with me and follow my coding journey!
 | [0007-reverse-integer](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
@@ -540,5 +542,6 @@ Feel free to connect with me and follow my coding journey!
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
