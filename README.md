@@ -161,6 +161,7 @@ Feel free to connect with me and follow my coding journey!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0349-intersection-of-two-arrays) |
@@ -245,6 +246,7 @@ Feel free to connect with me and follow my coding journey!
 | [0053-maximum-subarray](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/akshitsharma1696/DSA-in-JAVA/tree/master/0877-stone-game) |
